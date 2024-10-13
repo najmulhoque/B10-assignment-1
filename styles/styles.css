@@ -93,7 +93,7 @@ margin-top: 40px;
 }
 /* 2nd section start */
 .why-develop{
-    /* padding: 100px 200px 100px 200px; */
+    padding: 50px 200px 100px 200px;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -162,4 +162,32 @@ margin-top: 15px;
     background-color: black;
     color: aliceblue;
     transition: 1s;
+}
+/* Inspiration section start */
+.inspiration-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inspiration-head{
+    color: rgb(13, 19, 33);
+font-family: "Azeret Mono", monospace;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 30px;
+}
+.inpiration-details{
+    color: rgb(13, 19, 33);
+font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 50px;
+
 }
