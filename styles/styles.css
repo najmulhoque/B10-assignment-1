@@ -191,3 +191,52 @@ text-align: center;
 margin-bottom: 50px;
 
 }
+.youtube-video{
+    box-sizing: border-box;
+border: 10px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+margin-bottom: 70px;
+
+}
+.cart-parent{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 80px;
+}
+ .cart-4th-section{
+   display: block;
+   border-radius: 16px;
+ width: 300px;
+ padding: 50px;
+background: rgba(255, 76, 30, 0.05);
+ 
+     }
+.cart-head{
+    color: rgb(13, 19, 33);
+font-family: "Azeret Mono", monospace;
+font-size: 24px;
+font-weight: 800;
+margin-top: 10px;
+
+
+}
+.cart-det{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+
+}
+a{
+    
+    color: rgb(13, 19, 33);
+font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
