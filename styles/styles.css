@@ -46,6 +46,8 @@ border-radius:  10px;
    
 }
 
+
+
 .group-bg{
 /* padding-left:350px; */
 width: 240.28px;
@@ -91,7 +93,11 @@ background: rgb(13, 19, 33);
 padding: 10px;
 margin-top: 40px;
 }
+
+
 /* 2nd section start */
+
+
 .why-develop{
     padding: 50px 200px 100px 200px;
    display: flex;
@@ -118,7 +124,11 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 }
+
+
 /* carts */
+
+
 .each-cart{
     display: flex;
     justify-content: center;
@@ -163,7 +173,11 @@ margin-top: 15px;
     color: aliceblue;
     transition: 1s;
 }
+
+
 /* Inspiration section start */
+
+
 .inspiration-part{
     display: flex;
     flex-direction: column;
@@ -262,6 +276,7 @@ text-decoration-line: underline;
     justify-content: center;
 }
 
+
 .last-section{
     display: flex;
     flex-direction: column;
@@ -293,6 +308,8 @@ text-align: center;
 }
 
 /* footer section */
+
+
 footer{
     padding: 100px 200px;
     display: flex;
