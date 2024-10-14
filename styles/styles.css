@@ -255,3 +255,61 @@ text-decoration-line: underline;
     padding: 30px;
     align-items: center;
 }
+.najmul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.last-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30PX;
+    background-image: url(../assets/handshake.jpg);
+    width: 1040px;
+    height: 213px;
+      
+}
+.support-heading{
+    color: rgb(255, 255, 255);
+font-family: "Azeret Mono", monospace;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+}
+.support-det{
+    color: rgb(255, 255, 255);
+font-family: "Azeret Mono", monospace;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+/* footer section */
+footer{
+    padding: 100px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-head{
+    color: rgb(13, 19, 33);
+font-family: "Azeret Mono" monospace;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.footer-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
